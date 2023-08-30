@@ -3,6 +3,8 @@
 learning-security-azure-cloud-security
 # Learning Security - Azure Cloud Security
 
+**====  DEPRECATED: REPLACED BY learning-azure-cloud-security ====**
+
 Part of "Learning - Security" at https://github.com/vanHeemstraSystems/learning-security
 
 Can be read as "Learning Security - Azure Cloud Security" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
